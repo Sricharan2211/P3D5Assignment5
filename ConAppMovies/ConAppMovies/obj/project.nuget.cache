@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vs2Z0VSJdDYXKqDjDX7wrxqHJO44HCj6Vq3QwFkN4KnSjwxlCW2Laigpp3pChSBqsuuDH7dwObKHo21VzIkIdA==",
+  "success": true,
+  "projectFilePath": "D:\\Phase 3 Assignments\\D5 Assignment 5\\ConAppMovies\\ConAppMovies\\ConAppMovies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
